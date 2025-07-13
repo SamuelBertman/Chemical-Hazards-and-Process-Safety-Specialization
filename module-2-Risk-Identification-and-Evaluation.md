@@ -11,5 +11,5 @@ The following are notes taken from module 2 of the course, it includes:
 
 ## Case Studies
 
-- [Module 1 Case Studies](./module-2-case-studies.md)
+- [Module 2 Case Studies](./module-2-case-studies.md)
 
