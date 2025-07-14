@@ -5,6 +5,7 @@ This includes notes and applied insights from case studies written during comple
 ---
 
 ## [Module 1](./module-1-risks-and-safety-culture.md)
-Notes for Module 1 covering risks, safety culture, and case studies.
+Notes for Module 1 covering risks, safety culture and case studies.
 
-
+## [Module 2](./module-2-Risk-Identification-and-Evaluation.md)
+Notes for Module 2 covering risk identification, evaluation and methods.
