@@ -9,3 +9,6 @@ Notes for Module 1 covering risks, safety culture and case studies.
 
 ## [Module 2](./module-2-Risk-Identification-and-Evaluation.md)
 Notes for Module 2 covering risk identification, evaluation and methods.
+
+## [Module 3](./module-3-event-trees.md)
+Notes for Module 3 covering event trees and probability calculations.
